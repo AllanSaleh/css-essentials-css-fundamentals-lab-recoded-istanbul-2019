@@ -43,6 +43,7 @@ figcaption {
 }
 
 div{
+  text-align: center
   width: 25%;
   float: left;
 }
