@@ -30,5 +30,6 @@ figcaption {
 
 p{
   width: 800px;
-  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
 }
