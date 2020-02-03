@@ -38,12 +38,9 @@ figcaption {
 
 #details{
   display: block;
-  margin-right: auto;
-  margin-left: auto;
 }
 
 div{
-  text-align: center
   width: 25%;
   float: left;
 }
